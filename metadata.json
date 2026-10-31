@@ -1,0 +1,6 @@
+{
+  "name": "SIM VERVAL RKAS & BOP PAUD",
+  "description": "Sistem Informasi Manajemen Perencanaan RKAS, Verifikasi, Penatausahaan, dan Pelaporan Dana BOP PAUD Real-Time berbasis Juknis BOSP terintegrasi Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
